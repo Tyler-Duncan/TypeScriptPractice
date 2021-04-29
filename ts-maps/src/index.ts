@@ -1,6 +1,5 @@
 import { User } from "./User";
 import { Company } from "./Company";
-import { company } from "faker";
 import { Map } from "./Map";
 
 const user = new User();
